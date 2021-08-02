@@ -1,0 +1,30 @@
+[
+    {
+        "position" : "MANAGEMENT",
+        "name" : "Karen",
+        "surname" : "Blanche",
+        "email" : "karen@mysite.com",
+        "phone" : "123-456-7890"
+    },
+    {
+        "position" : "BOOKING",
+        "name" : "Daniel",
+        "surname" : "Ku",
+        "email" : "daniel@mysite.com",
+        "phone" : "123-456-7890"
+    },
+    {
+        "position" : "LABEL",
+        "name" : "Jake",
+        "surname" : "Coldham",
+        "email" : "jake@mysite.com",
+        "phone" : "123-456-7890"
+    },
+    {
+        "position" : "PR",
+        "name" : "Sarah",
+        "surname" : "Brookstone",
+        "email" : "sarah@mysite.com",
+        "phone" : "123-456-7890"
+    } 
+]
